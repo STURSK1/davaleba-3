@@ -1,0 +1,36 @@
+.container{
+    box-sizing: border-box;
+    width: 562px;
+    height: 818px;
+    left: 439px;
+    top: 341px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC; 
+}
+
+.question{
+width: 273px;
+height: 40px;
+left: 578px;
+top: 651px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+
+.text{
+width: 476px;
+height: 311px;
+left: 482px;
+top: 750px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+color: #000000;
+}
